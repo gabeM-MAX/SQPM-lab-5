@@ -1,3 +1,5 @@
+task one is there twice, once as ipynb and once as a .py file bc of the invalid notebook error
+
 # Lab 5: Data Quality and Validation
 
 In this lab, students will explore techniques for assessing and improving data quality. The lab focuses on two powerful tools:
